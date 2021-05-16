@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchableExample</string>
+    <string name="app_label">SearchableExample</string>
+    <string name="search_hint">Search...</string>
+</resources>
